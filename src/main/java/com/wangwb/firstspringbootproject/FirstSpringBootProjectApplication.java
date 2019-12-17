@@ -15,6 +15,6 @@ public class FirstSpringBootProjectApplication {
     }
     @RequestMapping
     public String hello() {
-        return "hello spring boot! v3.0";
+        return "hello spring boot! v4.0";
     }
 }
